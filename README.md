@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **19bcs2823@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/pushkarra/githubresumeio/blob/main/Resume.pdf](https://github.com/pushkarra/githubresumeio/blob/main/Resume.pdf)
+- 📄 Know about my experiences [https://github.com/pushkarra/githubresumeio/blob/main/19BCS2823.pdf](https://github.com/pushkarra/githubresumeio/blob/main/Resume.pdf)
 
 - ⚡ Fun fact **My friends call me Memer**
 
